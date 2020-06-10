@@ -11,7 +11,7 @@ You can record a short message for any model with current timestamp and authenti
 
 ## Installation:
 
-A) Execute `composer require igaster/laravel-model-events`
+A) Execute `composer require ricardosierra/laravel-model-events`
 
 This package includes a Service Provider that will be automatically discovered by Laravel.
 

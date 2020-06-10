@@ -1,5 +1,5 @@
 {
-  "name": "igaster/laravel-model-events",
+  "name": "ricardosierra/laravel-model-events",
   "description": "Laravel Custom Model Events",
   "keywords": [
     "laravel",
@@ -15,7 +15,7 @@
   ],
   "require": {
     "php": ">=7.1",
-    "illuminate/contracts": "5.* | ^6.0"
+    "illuminate/contracts": "5.* | ^6.0 | ^7.0 | ^8.0"
   },
   "require-dev": {
     "orchestra/testbench": "~4.0",
